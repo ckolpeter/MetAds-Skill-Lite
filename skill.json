@@ -1,0 +1,16 @@
+{
+  "id": "metads-skill-lite",
+  "title": "MetAds Skill Lite",
+  "version": "1.0.0",
+  "edition": "lite",
+  "platform": "meta_ads",
+  "scope": "creative_test_planning",
+  "contract_name": "metads.plan",
+  "contract_version": "1.0",
+  "utm_source": "meta",
+  "utm_medium": "paid_social",
+  "runtime_network": false,
+  "external_reads": false,
+  "external_writes": false,
+  "release_date": "2026-10-05"
+}

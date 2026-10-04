@@ -1,0 +1,4 @@
+interface:
+  display_name: "MetAds Skill Lite"
+  short_description: "Meta 廣告離線規劃與素材起稿"
+  default_prompt: "Use $metads-skill-lite to turn my supplied brief into an offline plan, explain assumptions, and validate local outputs."
