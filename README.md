@@ -1,5 +1,7 @@
 # MetAds Skill Lite v1.0.0
 
+[繁體中文](docs/i18n/README.zh-TW.md) · [简体中文](docs/i18n/README.zh-CN.md) · [English](docs/i18n/README.en.md) · [日本語](docs/i18n/README.ja.md) · [한국어](docs/i18n/README.ko.md)
+
 **AI Ads Academy／AI 廣告學院｜最基礎離線版**
 
 Meta 廣告：三種素材角度、文案、視覺簡報、轉換路徑與測試計畫。
