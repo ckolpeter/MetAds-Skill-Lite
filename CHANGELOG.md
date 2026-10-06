@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1 hardening — 2026-10-07
+
+Added direct reference routing, degrees-of-freedom guidance, ordered checklist, self-correction loop, explicit dependency policy, structural release-gate checks, and a cross-model evaluation matrix. Deterministic plan contract and live-operation boundary are unchanged.
+
 ## 1.0.0 — 2026-10-05
 
 首次最基礎離線版。新增 Meta 廣告：三種素材角度、文案、視覺簡報、轉換路徑與測試計畫。
