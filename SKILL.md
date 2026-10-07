@@ -4,7 +4,7 @@ description: Plan offline Meta Facebook Instagram ad creative angles, copy varia
 license: Apache-2.0
 compatibility: Python 3.10+ standard library for local helpers. Host agent supplies language generation; no model API, ad connector, or network required by the package.
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
   edition: "lite"
   brand: "AI Ads Academy"
   plan-contract: "metads.plan@1.0"
